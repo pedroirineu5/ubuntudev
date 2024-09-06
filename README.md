@@ -4,6 +4,6 @@ Isso é um pequeno script para automatizar a chatice que é configurar um ambien
 
 Caso esteja enfrentando problemas para rodar o script em seu ambiente. Faça o seguinte:
 
-```alpine
+```sh
 chmod +x setup_dev_env.sh
 ```
