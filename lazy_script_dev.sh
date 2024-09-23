@@ -39,7 +39,7 @@ then
 fi
 
 
-# pythonzinho de lei
+# pythonzinho de lei, eu sei que o python já vem pré-instalado
 
 if ! command_exists python3; then
     sudo apt install -y python3 python3-pip
