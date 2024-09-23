@@ -1,6 +1,6 @@
 # Lazy script enviroment
 
-Isso é um pequeno script para automatizar a chatice que é configurar um ambiente de desenvolvimento em sistemas linux. Sinta-se a vontade para fazer um **fork** desse script, para customiza-lo à vontade. Isso é apenas para sistemas baseados no **debian/ubuntu** 
+Isso é um pequeno script para automatizar a chatice que é configurar um ambiente de desenvolvimento em sistemas linux. Sinta-se à vontade para fazer um **fork** desse script, para customiza-lo à vontade. Isso é apenas para sistemas baseados no **debian/ubuntu** 
 
 ## O que esse script está fazendo?
 
